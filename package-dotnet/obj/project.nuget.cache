@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "adLKb3jqJn4=",
+  "success": true,
+  "projectFilePath": "/workspaces/azure-sdk-csharp-example/package-dotnet/package-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.resourcemanager/1.13.2/azure.resourcemanager.1.13.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.resourcemanager.resources/1.11.0/azure.resourcemanager.resources.1.11.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.resourcemanager.storage/1.4.4/azure.resourcemanager.storage.1.4.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identity.client/4.73.1/microsoft.identity.client.4.73.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identity.client.extensions.msal/4.73.1/microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.clientmodel/1.5.1/system.clientmodel.1.5.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
